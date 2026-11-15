@@ -170,3 +170,7 @@ bash scripts/verify.sh
 - [GNU awk 的 CSV 支持](https://www.gnu.org/software/gawk/manual/html_node/CSV-Parsing.html)：`--csv` 与 `FPAT` 的边界。
 
 发现错误或希望补充案例，欢迎提交 issue 或 pull request。修改示例后请运行 `bash scripts/verify.sh`。
+
+### 许可证
+
+本项目采用 **MIT** 许可证，允许使用、复制、修改、合并、发布、分发、再许可和销售，保留版权与许可声明即可。完整文本见 [LICENSE](LICENSE)。
