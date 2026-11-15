@@ -1,0 +1,8 @@
+Awk reads input record by record. A record is normally one line.
+Blank lines separate paragraphs when RS is empty.
+
+Fields are separated by whitespace by default. FS changes the separator.
+Changing a field rebuilds the record with OFS.
+
+Arrays in awk are associative. Keys are strings, even when they look like numbers.
+Use split to turn a string into fields.

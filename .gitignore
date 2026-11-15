@@ -1,0 +1,9 @@
+# 临时产物与编辑器文件
+out/
+*.tmp
+*.bak
+awkprof.out
+awkvars.out
+.DS_Store
+.idea/
+.vscode/

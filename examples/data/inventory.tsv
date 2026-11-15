@@ -1,0 +1,8 @@
+sku	name	warehouse	stock
+A-100	Keyboard	North	42
+A-101	Keyboard	South	18
+B-200	Mouse	North	75
+B-201	Mouse	East	30
+C-300	Monitor	West	12
+C-301	Monitor	North	8
+D-400	USB Hub	East	55
